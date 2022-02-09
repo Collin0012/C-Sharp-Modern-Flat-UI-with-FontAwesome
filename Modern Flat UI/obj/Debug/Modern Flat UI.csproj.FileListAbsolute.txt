@@ -1,0 +1,19 @@
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.exe.config
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.exe
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\bin\Debug\Modern Flat UI.pdb
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.AssemblyReference.cache
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Properties.Resources.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.GenerateResource.cache
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.CoreCompileInputs.cache
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.csproj.CopyComplete
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.exe
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern Flat UI.pdb
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.FormMainMenu.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Customers.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Dashboard.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Marketing.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Orders.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Products.resources
+C:\Users\Atu\source\repos\Modern Flat UI\Modern Flat UI\obj\Debug\Modern_Flat_UI.Forms.Settings.resources
